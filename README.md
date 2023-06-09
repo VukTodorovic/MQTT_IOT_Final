@@ -30,3 +30,7 @@ Mock implementation of IOT security system written in Python using MQTT and SSDP
 ## Broker
 - Acts as a controller in the system and is responsible for being the central middleman of the MQTT conversation
 - Also on the broker there is available info on data of all topics
+
+## Future improvements
+- To improve the security of the system, there could be added more sensor units like heat detector, timer that measures time spent in the object after successful authorization with a card, etc
+- There could be implemented a cloud server with frontend interface that could be used to gather data and monitor multiple secured objects at the same time
