@@ -1,5 +1,5 @@
 # MQTT_IOT_Final
-Mock implementation of IOT security system
+Mock implementation of IOT security system written in Python using MQTT and SSDP protocols
 
 ## System Sketch
 ![image](https://github.com/VukTodorovic/MQTT_IOT_Final/assets/77984795/35e0e643-1416-4d6c-a80f-6b26e9ee3be4)
